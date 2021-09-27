@@ -20,7 +20,6 @@ public class Client implements Serializable{
 	private Long id;
 	private String name;
 	
-	@Column(columnDefinition = "TEXT")
 	private String cpf;
 	private Double income;
 	
