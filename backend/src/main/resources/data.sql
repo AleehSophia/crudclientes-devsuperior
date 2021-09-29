@@ -1,1 +1,10 @@
 INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Alessia', '505.882.648-81', 1.0, TIMESTAMP WITH TIME ZONE '1999-12-31T00:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Bruno', '535.862.544-11', 1.0, TIMESTAMP WITH TIME ZONE '1999-12-31T00:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Gabriel', '256.342.648-31', 1.0, TIMESTAMP WITH TIME ZONE '1999-12-31T00:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Diogo', '535.012.648-81', 1.0, TIMESTAMP WITH TIME ZONE '1999-12-31T00:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Danielle', '505.882.648-81', 1.0, TIMESTAMP WITH TIME ZONE '1999-12-31T00:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Rafaella', '505.882.648-81', 1.0, TIMESTAMP WITH TIME ZONE '1999-12-31T00:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Eliana', '505.882.648-81', 1.0, TIMESTAMP WITH TIME ZONE '1999-12-31T00:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Luiz', '505.882.648-81', 1.0, TIMESTAMP WITH TIME ZONE '1999-12-31T00:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Carolina', '505.882.648-81', 1.0, TIMESTAMP WITH TIME ZONE '1999-12-31T00:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Marcella', '505.882.648-81', 1.0, TIMESTAMP WITH TIME ZONE '1999-12-31T00:00:00Z', 0);
